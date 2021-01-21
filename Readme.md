@@ -1,7 +1,7 @@
 # Личный проект «Глейси»
 
 * Студент: [Яков Бураченко](https://up.htmlacademy.ru/htmlcss/30/user/1536937).
-* Наставник: `{Артик Ман}(https://htmlacademy.ru/profile/id1445657)`.
+* Наставник: `[Артик Ман](https://htmlacademy.ru/profile/id1445657)`.
 
 ---
 
